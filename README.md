@@ -1,7 +1,7 @@
 # cordova-plugin-somePrinter
 This is a plugin with a printer.
 
-Steps  >>>>
+Steps  >>>><br/>
 
 0)正确安装java jdk
 1)正确安装node
