@@ -1,6 +1,6 @@
 # cordova-plugin-somePrinter
-This is a plugin with a printer.
-
+This is a plugin with a printer&ensp;.&ensp;(only Android)<br/>
+<br/>
 Steps  >>>><br/>
 
 0)正确安装java jdk <br/>
